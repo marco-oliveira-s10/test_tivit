@@ -63,7 +63,7 @@ O objetivo deste teste é desenvolver uma API em Python, que interaja com a situ
   - Comandos para criar e popular o banco de dados. - OK
   - Instruções para rodar os testes. - OK
 
-- Adicionar uma coleção Postman com exemplos de requisições para cada rota desenvolvida.
+- Adicionar uma coleção Postman com exemplos de requisições para cada rota desenvolvida. - OK
 
 ## Links de Exemplos
 Para referência, veja exemplos de endpoints funcionando:
@@ -100,3 +100,11 @@ Você também pode usar ferramentas como Postman para testar suas rotas, importa
 
 Para qualquer dúvida, entre em contato comigo: marco.oliveira.s10@gmail.com
 
+
+#INFO:
+
+Informações adicionais:
+
+Aproximadamente 2 horas de desenvolvimento.
+Complexidade de implementação: 1 (de 0 a 10).
+Complexidade de entender o desafio: 4 (de 0 a 10).
